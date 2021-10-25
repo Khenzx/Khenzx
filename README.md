@@ -1,10 +1,6 @@
 Hi there 👋 I'm Ｚｏｌｄｙｃｋ, welcome to my github profile!
 
-**eevvnnxx/eevvnnxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently a student and like to try new things
+- 🔭 I’m currently a student and like to learn new things
 - 🌱 I’m currently learning to be a progammer
 - 👯 I’m looking to collaborate on github
 - 💬 Ask me about everything 
