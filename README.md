@@ -21,6 +21,9 @@
 -![eevvnnxx GitHub stats](https://github-readme-stats.vercel.app/api?username=eevvnnxx&show_icons=true&theme=radical)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eevvnnxx&show_icons=true&locale=en&layout=compact" alt="eevvnnxx" /></p>
+
+
 -![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eevvnnxx&theme=neon-palenight&hide_border=true)
 
 
