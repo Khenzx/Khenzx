@@ -4,10 +4,10 @@ Hi there 👋 I'm Ｚｏｌｄｙｃｋ, welcome to my github profile!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on home
+- 🔭 I’m currently a student and web developer
 - 🌱 I’m currently learning to be a progammer
-- 👯 I’m looking to collaborate on .
-- 💬 Ask me about everything about anything
+- 👯 I’m looking to collaborate on 
+- 💬 Ask me about everything 
 - 📫 How to reach me: [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=169c88)](https://t.me/hexacoree)
 -![eevvnnxx GitHub stats](https://github-readme-stats.vercel.app/api?username=eevvnnxx&show_icons=true&theme=radical)
 -![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eevvnnxx&theme=neon-palenight&hide_border=true)
