@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Ｚｏｌｄｙｃｋ, welcome to my github profile!
+Hi there 👋 I'm Ｚｏｌｄｙｃｋ, welcome to my github profile!
 
-<!--
 **eevvnnxx/eevvnnxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +13,5 @@ Here are some ideas to get you started:
 -![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eevvnnxx&theme=neon-palenight&hide_border=true)
 -![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eevvnnxx.eevvnnxx)
 
+
 - ⚡ Fun fact: don't like durian fruits
--->
