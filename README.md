@@ -29,3 +29,6 @@
 
 -![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eevvnnxx.eevvnnxx)
 
+## Snake eating my contrbution graph
+![snake svg](https://github.com/eevvnnxx/eevvnnxx/blob/output/github-contribution-grid-snake.svg)
+
