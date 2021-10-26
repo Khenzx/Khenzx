@@ -18,16 +18,16 @@
 
 **GITHUB STAT'S**
 
--![eevvnnxx GitHub stats](https://github-readme-stats.vercel.app/api?username=eevvnnxx&show_icons=true&theme=radical)
+![eevvnnxx GitHub stats](https://github-readme-stats.vercel.app/api?username=eevvnnxx&show_icons=true&theme=radical)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eevvnnxx&show_icons=true&locale=en&layout=compact" alt="eevvnnxx" /></p>
 
 
--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eevvnnxx&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eevvnnxx&theme=neon-palenight&hide_border=true)
 
 
--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eevvnnxx.eevvnnxx)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eevvnnxx.eevvnnxx)
 
 ## Snake eating my contrbution graph
 ![snake svg](https://github.com/eevvnnxx/eevvnnxx/blob/output/github-contribution-grid-snake.svg)
