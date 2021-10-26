@@ -7,7 +7,7 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - 🔭 I’m currently a student and like to learn new things
-- 🌱 I’m currently learning to be a progammer
+- 🌱 I’m currently learning to be a spiderman
 - 👯 I’m looking to collaborate on github
 - 💬 Ask me about anythings
 - 📫 How to reach me: [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=169c88)](https://t.me/liquidparadewa)
