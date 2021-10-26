@@ -29,6 +29,3 @@
 
 -![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eevvnnxx.eevvnnxx)
 
-<div>
-  <img src="https://raw.githubusercontent.com/devesh-anand/devesh-anand/output/github-contribution-grid-snake.svg">
-</div>
