@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning to be a progammer
 - 👯 I’m looking to collaborate on github
 - 💬 Ask me about anythings
-- 📫 How to reach me: [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=169c88)](https://t.me/hexacoree)
+- 📫 How to reach me: [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=169c88)](https://t.me/Hexacoree)
 - 💻 I'm a knowledge seeker & I love to learn new **Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
