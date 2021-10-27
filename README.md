@@ -1,14 +1,10 @@
-# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Rafid** 🎯️🚀️</p>
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-</br>
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-</br>
-
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - 🔭 I’m currently a college student
-- 🌱 I’m currently learning to be spiderman
-- 💬 Ask me about anythings
+- 💬 Ask me about anythings, i am happy to help :)
 - 📫 How to reach me: [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=169c88)](https://t.me/liquidparadewa)
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 ----
