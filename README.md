@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently a college student
 - 💬 Ask me about anythings, i am happy to help :)
-- 📫 How to reach me: [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=169c88)](https://t.me/liquidparadewa)
+- 📫 How to reach me: [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=chat&color=169c88)](https://t.me/keselekmatcha)
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 ----
 
 **GITHUB STAT'S**
 
-![eevvnnxx GitHub stats](https://github-readme-stats.vercel.app/api?username=eevvnnxx&show_icons=true&theme=radical)
+![Khenzx GitHub stats](https://github-readme-stats.vercel.app/api?username=Khenzx&show_icons=true&theme=radical)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eevvnnxx&show_icons=true&locale=en&layout=compact" alt="eevvnnxx" /></p>
