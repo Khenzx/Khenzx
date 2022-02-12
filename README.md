@@ -11,21 +11,21 @@
 
 **GITHUB STAT'S**
 
-![Khenzx GitHub stats](https://github-readme-stats.vercel.app/api?username=Khenzx&show_icons=true&theme=radical)
+![khenzx GitHub stats](https://github-readme-stats.vercel.app/api?username=khenzx&show_icons=true&theme=radical)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khenzx&show_icons=true&locale=en&layout=compact" alt="Khenzx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khenzx&show_icons=true&locale=en&layout=compact" alt="khenzx" /></p>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Khenzx&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khenzx&theme=neon-palenight&hide_border=true)
 
 
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Khenzx.Khenzx)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khenzx.khenzx)
 
 ## Snake eating my contribute graph
 
-![snake svg](https://github.com/Khenzx/Khenzx/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/khenzx/khenzx/blob/output/github-contribution-grid-snake.svg)
 
